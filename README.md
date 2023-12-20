@@ -1,7 +1,5 @@
 # flarum
 
-https://camo.githubusercontent.com/3f93c6ca5b95a88a9c516bde29bc6d092cec6c9a67dbe39e537b1bb5b07d2e57/68747470733a2f2f666c6172756d2e6f72672f6173736574732f696d672f6c6f676f2e706e67
-
 How to install Flarum?
 
 
